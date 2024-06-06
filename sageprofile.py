@@ -1,4 +1,4 @@
-# This code will print all users and app on terminal, as well as save the details in csv file.
+# This code will print all users and app of sagemaker domain on terminal, as well as save the details in csv file.
 
 import boto3
 import csv
